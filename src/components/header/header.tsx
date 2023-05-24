@@ -2,7 +2,7 @@
 import styles from './header.module.css';
 
 // Assets
-import IgniteLogo from '../../assets/ignite-logo.svg';
+import IgniteLogo from 'assets/ignite-logo.svg';
 
 export const Header = () => {
   return (

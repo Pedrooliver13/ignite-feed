@@ -1,6 +1,7 @@
-import { Avatar } from '../avatar/avatar';
+// Components
+import { Avatar } from 'components';
 
-// Packages
+// Icons
 import { PencilLine as PencilLineIcon } from 'phosphor-react';
 
 // Styles

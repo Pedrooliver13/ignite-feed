@@ -1,9 +1,11 @@
 // Packages
 import { useState } from 'react';
-import { ThumbsUp as ThumbsUpIcon, Trash as TrashIcon } from 'phosphor-react';
 
 // Components
-import { Avatar } from '../../components';
+import { Avatar } from 'components';
+
+// Icons
+import { ThumbsUp as ThumbsUpIcon, Trash as TrashIcon } from 'phosphor-react';
 
 // Styles
 import styles from './comment.module.css';

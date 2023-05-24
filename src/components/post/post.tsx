@@ -4,7 +4,7 @@ import { format, formatDistanceToNow } from 'date-fns';
 import ptBR from 'date-fns/locale/pt-BR';
 
 // Components
-import { Avatar, Comment } from '../../components';
+import { Avatar, Comment } from 'components';
 
 // Styles
 import styles from './post.module.css';

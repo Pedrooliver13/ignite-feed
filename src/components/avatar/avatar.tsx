@@ -1,5 +1,7 @@
-// Styles
+// Packages
 import { ImgHTMLAttributes } from 'react';
+
+// Styles
 import styles from './avatar.module.css';
 
 interface AvatarProps extends ImgHTMLAttributes<HTMLImageElement> {
