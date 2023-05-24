@@ -27,7 +27,8 @@ $ npm start or yarn start
 ## :rocket: Technologies
 
 -  [React](https://pt-br.reactjs.org/)
--  [Css modules]()
+-  [Css modules](https://github.com/css-modules/css-modules)
+-  [Phosphor](https://phosphoricons.com/)
 
 ---
 
